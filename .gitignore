@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+sim_matrix.npy
